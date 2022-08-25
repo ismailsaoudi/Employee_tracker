@@ -3,7 +3,7 @@
 
 ## Description
 
-This application can be used to track employees , allowing the user to better organize employees data and keep track of the departments, roles and more details. This application uses an .js back end to save and retrieve note data from a JSON file.
+This application can be used to track employees , allowing the user to better organize employees data and keep track of the departments, roles and more details. This application uses an .js back end to manipulate and track employee data from a mysql db.
 
 ### How it works
 
