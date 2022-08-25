@@ -1,6 +1,6 @@
 const inquirer=require("inquirer")
 const db = require("./config/connection")
-require("console.table")
+const cTable = require("console.table")
 
 db.connect( ()=>{
     menu()
@@ -126,7 +126,8 @@ function addEmployees(){
                     name:"role_id",
                     message:"Choose the following role title",
                     choices:roleData
-                },{
+                },
+                {
                     type:"list",
                     name:"manager_id",
                     message:"Choose the following manager",
