@@ -14,6 +14,11 @@ The following steps explain how this "Employee Tracker" application works:
 - 3- install Mysql
 - 4- run node js
 
+## Walk Through Video
+
+[Employee_tracker.webm](https://user-images.githubusercontent.com/96844004/187033881-cdfa659c-d25e-4456-94aa-6e4509832265.webm)
+
+
 ## Credits
 
 The application's front end was provided. To give the application its CRUD (create, read, update, and delete) functionality, I built the bank end, connected the two, and then deployed the entire application to Heroku.
